@@ -1,0 +1,4 @@
+# robots.txt for www.rdcjazinski.com
+
+User-agent: *
+Allow: /
