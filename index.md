@@ -65,7 +65,6 @@ Throughout this inquiry, I’ve encountered books, papers, and works that have e
 
 ---
 
-
 ➡️ [rdcj-research.com](https://www.rdcj-research.com)  
 ➡️ [rodrigojazinski.com](https://www.rodrigojazinski.com)
 
