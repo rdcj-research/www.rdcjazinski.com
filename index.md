@@ -71,3 +71,8 @@ Throughout this inquiry, I’ve encountered books, papers, and works that have e
 Reach out: [reach@rdcjazinski.com](mailto:reach@rdcjazinski.com)
 
 _© 2025 R.D.C. Jazinski. All rights reserved._
+
+<p class="footer-disclaimer">
+rdcjazinski.com participates in the Amazon Associates program, which means we may earn affiliate commissions when you buy products through our links. These commissions help support our independent research into symbolic systems, computation, and epistemology — at no extra cost to you.
+</p>
+
