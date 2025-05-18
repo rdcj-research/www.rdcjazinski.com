@@ -1,6 +1,6 @@
 # R.D.C. Jazinski
 
-Independent researcher. Systems-oriented thinker. Symbolic scientist.
+Researcher | Inquirer | Systems Thinker
 
 With a background in technology, media, computation, and epistemology, my work moves across disciplines to explore how form, resonance, and symbolic logic shape the way we think, decide, and build.
 
