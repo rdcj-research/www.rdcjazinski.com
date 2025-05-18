@@ -15,7 +15,7 @@ description: "Researcher | Inquirer | Systems Thinker"
 
 ![image](rdcjazinski.jpg)
 
-**Researcher | Inquirer | Systems Thinker**
+**Researcher, Inquirer, Systems Thinker**
 
 With a background in technology, media, computation, and epistemology, my work moves across disciplines to explore how form, [resonance](https://www.symbolicresonance.com), and [symbolic logic](https://www.symbolicresonance.com) shape the way we think, decide, and build.
 
