@@ -1,6 +1,6 @@
 ---
 title: "R.D.C. Jazinski"
-description: "Independent Systems Thinker | Research and Symbolic Inquiry"
+description: "Researcher | Inquirer | Systems Thinker"
 ---
 
 <link rel="stylesheet" href="style.css">
@@ -15,7 +15,7 @@ description: "Independent Systems Thinker | Research and Symbolic Inquiry"
 
 ![image](rdcjazinski.jpg)
 
-**Independent researcher. Systems-oriented thinker. Symbolic scientist.**
+**Researcher | Inquirer | Systems Thinker**
 
 With a background in technology, media, computation, and epistemology, my work moves across disciplines to explore how form, [resonance](https://www.symbolicresonance.com), and [symbolic logic](https://www.symbolicresonance.com) shape the way we think, decide, and build.
 
